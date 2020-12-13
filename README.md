@@ -2,6 +2,10 @@
 
 Upload and download a JSON file from AWS S3 Object Storage
 
+## View the Source Code
+
+This project consist of one source file, [Application.java](./src/main/java/matt/hornung/Application.java).
+
 ## Running the Application
 
 If you want to run it, you'll need to go through this guide: https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/get-started.html
